@@ -15,3 +15,4 @@ export default setConfig({
   possibleTypes,
   templates,
 });
+
